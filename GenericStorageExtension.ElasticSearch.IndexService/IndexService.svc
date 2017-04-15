@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GenericStorageExtension.ElasticSearch.IndexService.Service1" CodeBehind="IndexService.svc.cs" %>

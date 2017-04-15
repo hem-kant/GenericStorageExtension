@@ -1,0 +1,6 @@
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Services\bin\Debug\GenericStorageExtension.Common.Services.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Services\bin\Debug\GenericStorageExtension.Common.Services.pdb
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Services\obj\Debug\GenericStorageExtension.Common.Services.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Services\obj\Debug\GenericStorageExtension.Common.Services.pdb

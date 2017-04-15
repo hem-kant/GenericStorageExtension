@@ -1,0 +1,6 @@
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Logging\bin\Debug\GenericStorageExtension.Common.Logging.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Logging\bin\Debug\GenericStorageExtension.Common.Logging.pdb
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Logging\bin\Debug\log4net.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Logging\bin\Debug\log4net.xml
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Logging\obj\Debug\GenericStorageExtension.Common.Logging.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Logging\obj\Debug\GenericStorageExtension.Common.Logging.pdb

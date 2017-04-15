@@ -1,0 +1,13 @@
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\GenericStorageExtension.Common.ExceptionManagement.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\GenericStorageExtension.Common.ExceptionManagement.pdb
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\GenericStorageExtension.Common.Logging.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\GenericStorageExtension.Common.Services.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\log4net.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\Newtonsoft.Json.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\GenericStorageExtension.Common.Logging.pdb
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\GenericStorageExtension.Common.Services.pdb
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\log4net.xml
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\bin\Debug\Newtonsoft.Json.xml
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\obj\Debug\GenericStorageExtension.Common.ExceptionManagement.csprojResolveAssemblyReference.cache
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\obj\Debug\GenericStorageExtension.Common.ExceptionManagement.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.ExceptionManagement\obj\Debug\GenericStorageExtension.Common.ExceptionManagement.pdb

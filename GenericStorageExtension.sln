@@ -1,0 +1,113 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenericStorageExtension.Common", "GenericStorageExtension.Common", "{1C900E33-27F3-463F-BB8F-7FF4CA35CAD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenericStorageExtension.ElasticSearch", "GenericStorageExtension.ElasticSearch", "{5CCCE76B-7620-4010-B156-CC0C233C02C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenericStorageExtension.MongoDB", "GenericStorageExtension.MongoDB", "{83C300A8-7B95-4F43-9ED1-7819E72DA3B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenericStorageExtension.SOLR", "GenericStorageExtension.SOLR", "{C8FF1DF6-0982-4F3E-ABCC-4DC1C8A9AFE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.Common.Configuration", "GenericStorageExtension.Common.Configuration\GenericStorageExtension.Common.Configuration.csproj", "{079CC347-A36C-4499-B84E-8668A28077D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.Common.ExceptionManagement", "GenericStorageExtension.Common.ExceptionManagement\GenericStorageExtension.Common.ExceptionManagement.csproj", "{A63B4766-73C9-4446-9E93-0BBD41B89973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.Common.Logging", "GenericStorageExtension.Common.Logging\GenericStorageExtension.Common.Logging.csproj", "{70DA4EF9-3245-44F0-9B77-EFAFB32DE091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.Common.Services", "GenericStorageExtension.Common.Services\GenericStorageExtension.Common.Services.csproj", "{14ABF8D4-04DE-4561-808C-58C874098E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.ElasticSearch.IndexService", "GenericStorageExtension.ElasticSearch.IndexService\GenericStorageExtension.ElasticSearch.IndexService.csproj", "{18DF9369-D554-449C-9E9F-5AC38A621866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.ESIndexService.BAL", "GenericStorageExtension.ESIndexService.BAL\GenericStorageExtension.ESIndexService.BAL.csproj", "{B4BD8EC2-025A-4273-8171-F4C472A2BF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.Common.IndexService.DataContracts", "GenericStorageExtension.Common.IndexService.DataContracts\GenericStorageExtension.Common.IndexService.DataContracts.csproj", "{DF36C504-1B7A-4C6D-AF53-D8CCE2302A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.Common.IndexService.DataHelper", "GenericStorageExtension.Common.IndexService.DataHelper\GenericStorageExtension.Common.IndexService.DataHelper.csproj", "{11D81509-139D-40F6-85FD-45B90A337D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.MongoDB.IndexService", "GenericStorageExtension.MongoDB.IndexService\GenericStorageExtension.MongoDB.IndexService.csproj", "{AFF061EF-8386-4289-AFBE-DFE6BD15AF6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.MongoDBIndexService.BAL", "GenericStorageExtension.MongoDBIndexService.BAL\GenericStorageExtension.MongoDBIndexService.BAL.csproj", "{8BFC70C9-9220-46C7-9AF1-075BA13689AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoDB.SearchService", "MongoDB.SearchService", "{DC26AFC9-651C-4307-A937-75EA2BE9DA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.MongoDB.SearchService", "GenericStorageExtension.MongoDB.SearchService\GenericStorageExtension.MongoDB.SearchService.csproj", "{F6E66183-0BA0-47D4-9466-B22543C6105E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericStorageExtension.MongoDB.SearchService.BAL", "GenericStorageExtension.MongoDB.SearchService.BAL\GenericStorageExtension.MongoDB.SearchService.BAL.csproj", "{9075134A-3502-4CBD-A6D0-DB90BCCEFB68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079CC347-A36C-4499-B84E-8668A28077D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079CC347-A36C-4499-B84E-8668A28077D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079CC347-A36C-4499-B84E-8668A28077D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079CC347-A36C-4499-B84E-8668A28077D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63B4766-73C9-4446-9E93-0BBD41B89973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63B4766-73C9-4446-9E93-0BBD41B89973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63B4766-73C9-4446-9E93-0BBD41B89973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63B4766-73C9-4446-9E93-0BBD41B89973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70DA4EF9-3245-44F0-9B77-EFAFB32DE091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DA4EF9-3245-44F0-9B77-EFAFB32DE091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DA4EF9-3245-44F0-9B77-EFAFB32DE091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DA4EF9-3245-44F0-9B77-EFAFB32DE091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ABF8D4-04DE-4561-808C-58C874098E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ABF8D4-04DE-4561-808C-58C874098E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ABF8D4-04DE-4561-808C-58C874098E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ABF8D4-04DE-4561-808C-58C874098E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DF9369-D554-449C-9E9F-5AC38A621866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DF9369-D554-449C-9E9F-5AC38A621866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DF9369-D554-449C-9E9F-5AC38A621866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DF9369-D554-449C-9E9F-5AC38A621866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BD8EC2-025A-4273-8171-F4C472A2BF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BD8EC2-025A-4273-8171-F4C472A2BF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BD8EC2-025A-4273-8171-F4C472A2BF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BD8EC2-025A-4273-8171-F4C472A2BF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF36C504-1B7A-4C6D-AF53-D8CCE2302A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF36C504-1B7A-4C6D-AF53-D8CCE2302A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF36C504-1B7A-4C6D-AF53-D8CCE2302A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF36C504-1B7A-4C6D-AF53-D8CCE2302A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D81509-139D-40F6-85FD-45B90A337D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D81509-139D-40F6-85FD-45B90A337D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D81509-139D-40F6-85FD-45B90A337D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D81509-139D-40F6-85FD-45B90A337D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF061EF-8386-4289-AFBE-DFE6BD15AF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF061EF-8386-4289-AFBE-DFE6BD15AF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF061EF-8386-4289-AFBE-DFE6BD15AF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF061EF-8386-4289-AFBE-DFE6BD15AF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFC70C9-9220-46C7-9AF1-075BA13689AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFC70C9-9220-46C7-9AF1-075BA13689AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFC70C9-9220-46C7-9AF1-075BA13689AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFC70C9-9220-46C7-9AF1-075BA13689AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E66183-0BA0-47D4-9466-B22543C6105E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E66183-0BA0-47D4-9466-B22543C6105E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E66183-0BA0-47D4-9466-B22543C6105E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E66183-0BA0-47D4-9466-B22543C6105E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9075134A-3502-4CBD-A6D0-DB90BCCEFB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9075134A-3502-4CBD-A6D0-DB90BCCEFB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9075134A-3502-4CBD-A6D0-DB90BCCEFB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9075134A-3502-4CBD-A6D0-DB90BCCEFB68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{079CC347-A36C-4499-B84E-8668A28077D1} = {1C900E33-27F3-463F-BB8F-7FF4CA35CAD9}
+		{A63B4766-73C9-4446-9E93-0BBD41B89973} = {1C900E33-27F3-463F-BB8F-7FF4CA35CAD9}
+		{70DA4EF9-3245-44F0-9B77-EFAFB32DE091} = {1C900E33-27F3-463F-BB8F-7FF4CA35CAD9}
+		{14ABF8D4-04DE-4561-808C-58C874098E43} = {1C900E33-27F3-463F-BB8F-7FF4CA35CAD9}
+		{18DF9369-D554-449C-9E9F-5AC38A621866} = {5CCCE76B-7620-4010-B156-CC0C233C02C0}
+		{B4BD8EC2-025A-4273-8171-F4C472A2BF09} = {5CCCE76B-7620-4010-B156-CC0C233C02C0}
+		{DF36C504-1B7A-4C6D-AF53-D8CCE2302A3D} = {1C900E33-27F3-463F-BB8F-7FF4CA35CAD9}
+		{11D81509-139D-40F6-85FD-45B90A337D87} = {1C900E33-27F3-463F-BB8F-7FF4CA35CAD9}
+		{AFF061EF-8386-4289-AFBE-DFE6BD15AF6E} = {83C300A8-7B95-4F43-9ED1-7819E72DA3B9}
+		{8BFC70C9-9220-46C7-9AF1-075BA13689AB} = {83C300A8-7B95-4F43-9ED1-7819E72DA3B9}
+		{DC26AFC9-651C-4307-A937-75EA2BE9DA3E} = {83C300A8-7B95-4F43-9ED1-7819E72DA3B9}
+		{F6E66183-0BA0-47D4-9466-B22543C6105E} = {DC26AFC9-651C-4307-A937-75EA2BE9DA3E}
+		{9075134A-3502-4CBD-A6D0-DB90BCCEFB68} = {DC26AFC9-651C-4307-A937-75EA2BE9DA3E}
+	EndGlobalSection
+EndGlobal

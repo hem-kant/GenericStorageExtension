@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DF36C504-1B7A-4C6D-AF53-D8CCE2302A3D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GenericStorageExtension.Common.IndexService.DataContracts</RootNamespace>
+    <AssemblyName>GenericStorageExtension.Common.IndexService.DataContracts</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IndexRequest.cs" />
+    <Compile Include="IndexResponse.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GenericStorageExtension.Common.Configuration\GenericStorageExtension.Common.Configuration.csproj">
+      <Project>{079cc347-a36c-4499-b84e-8668a28077d1}</Project>
+      <Name>GenericStorageExtension.Common.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GenericStorageExtension.Common.ExceptionManagement\GenericStorageExtension.Common.ExceptionManagement.csproj">
+      <Project>{a63b4766-73c9-4446-9e93-0bbd41b89973}</Project>
+      <Name>GenericStorageExtension.Common.ExceptionManagement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GenericStorageExtension.Common.Logging\GenericStorageExtension.Common.Logging.csproj">
+      <Project>{70da4ef9-3245-44f0-9b77-efafb32de091}</Project>
+      <Name>GenericStorageExtension.Common.Logging</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GenericStorageExtension.Common.Services\GenericStorageExtension.Common.Services.csproj">
+      <Project>{14abf8d4-04de-4561-808c-58c874098e43}</Project>
+      <Name>GenericStorageExtension.Common.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

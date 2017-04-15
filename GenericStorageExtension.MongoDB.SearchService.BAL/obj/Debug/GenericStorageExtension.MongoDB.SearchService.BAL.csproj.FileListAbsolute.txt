@@ -1,0 +1,10 @@
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\bin\Debug\GenericStorageExtension.MongoDB.SearchService.BAL.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\bin\Debug\GenericStorageExtension.MongoDB.SearchService.BAL.pdb
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\obj\Debug\GenericStorageExtension.MongoDB.SearchService.BAL.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\obj\Debug\GenericStorageExtension.MongoDB.SearchService.BAL.pdb
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\bin\Debug\MongoDB.Bson.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\bin\Debug\MongoDB.Driver.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\bin\Debug\MongoDB.Bson.xml
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\bin\Debug\MongoDB.Driver.xml
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.SearchService.BAL\bin\Debug\MongoDB.Driver.Core.xml

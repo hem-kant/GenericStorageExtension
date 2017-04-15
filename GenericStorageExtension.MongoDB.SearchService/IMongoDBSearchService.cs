@@ -1,0 +1,15 @@
+﻿using GenericStorageExtension.Common.Services.DataContracts;
+using GenericStorageExtension.MongoDB.SearchService.BAL.Model;
+using System.IO;
+using System.ServiceModel;
+
+namespace GenericStorageExtension.MongoDB.SearchService
+{
+    // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IService1" in both code and config file together.
+    [ServiceContract]
+    public interface IMongoDBSearchService
+    {
+        [OperationContract]
+        Stream GetContentFromMongoDB(GenericStorageExtensionServiceRequest<SearchRequest> request);
+    }
+}
