@@ -43,3 +43,4 @@ D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.IndexService\bi
 D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.IndexService\bin\MongoDB.Driver.xml
 D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.IndexService\bin\log4net.xml
 D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.IndexService\bin\Newtonsoft.Json.xml
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDB.IndexService\bin\netrtsn.dll

@@ -16,3 +16,4 @@ D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.IndexService.Dat
 D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.IndexService.DataHelper\obj\Debug\GenericStorageExtension.Common.IndexService.DataHelper.csprojResolveAssemblyReference.cache
 D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.IndexService.DataHelper\obj\Debug\GenericStorageExtension.Common.IndexService.DataHelper.dll
 D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.IndexService.DataHelper\obj\Debug\GenericStorageExtension.Common.IndexService.DataHelper.pdb
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.IndexService.DataHelper\bin\Debug\netrtsn.dll

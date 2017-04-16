@@ -17,3 +17,5 @@ D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Configuration\bi
 D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Configuration\bin\Debug\MongoDB.Bson.xml
 D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Configuration\bin\Debug\MongoDB.Driver.xml
 D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Configuration\bin\Debug\MongoDB.Driver.Core.xml
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Configuration\bin\Debug\RestSharp.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.Common.Configuration\bin\Debug\RestSharp.xml

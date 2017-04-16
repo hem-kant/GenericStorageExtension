@@ -26,3 +26,6 @@ D:\Dream\GenericStorageExtension\GenericStorageExtension.ESIndexService.BAL\bin\
 D:\Dream\GenericStorageExtension\GenericStorageExtension.ESIndexService.BAL\obj\Debug\GenericStorageExtension.ESIndexService.BAL.csprojResolveAssemblyReference.cache
 D:\Dream\GenericStorageExtension\GenericStorageExtension.ESIndexService.BAL\obj\Debug\GenericStorageExtension.ESIndexService.BAL.dll
 D:\Dream\GenericStorageExtension\GenericStorageExtension.ESIndexService.BAL\obj\Debug\GenericStorageExtension.ESIndexService.BAL.pdb
+D:\Dream\GenericStorageExtension\GenericStorageExtension.ESIndexService.BAL\bin\Debug\GenericStorageExtension.Common.ExceptionManagement.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.ESIndexService.BAL\bin\Debug\netrtsn.dll
+D:\Dream\GenericStorageExtension\GenericStorageExtension.ESIndexService.BAL\bin\Debug\GenericStorageExtension.Common.ExceptionManagement.pdb

@@ -22,3 +22,4 @@ D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDBIndexService.BAL
 D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDBIndexService.BAL\bin\Debug\log4net.xml
 D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDBIndexService.BAL\bin\Debug\Newtonsoft.Json.xml
 D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDBIndexService.BAL\obj\Debug\GenericStorageExtension.MongoDBIndexService.BAL.csprojResolveAssemblyReference.cache
+D:\Dream\GenericStorageExtension\GenericStorageExtension.MongoDBIndexService.BAL\bin\Debug\netrtsn.dll
